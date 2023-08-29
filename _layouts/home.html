@@ -8,17 +8,17 @@ layout: default
 
 {{ content }}
 
+{%- if site.posts.size > 0 -%}
 <div class="site-category">
-  <ul class='cat1'>    
+  <ul class='cat1'>
     <li><a href="/" class="ctext">Algorithm Study</a>
       <ul>
-        <li><a href="/category/Backtracking" class="ctext">Backtracking</a></li>        
+        <li><a href="/category/Others" class="ctext">Others</a></li>
+        <li><a href="/category/IUPC_2021" class="ctext">IUPC 2021</a></li>
       </ul>
-    </li>    
+    </li>
   </ul>
 </div>
-
-{%- if site.posts.size > 0 -%}
 <ul class="posts">
   <li class="posts-labelgroup" id="posts-labelgroup">
     <h1 id="posts-label">posts</h1>
