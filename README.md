@@ -18,3 +18,11 @@ git commit -m "본인의 커밋 메세지" <br>
 git push <br>
 입력 
 12. github에 push 후 {username}.github.io을 주소창에 입력했을 때 정상적으로 접속되는지 확인
+
+<h1> 로컬에서 테스트 하는 방법 </h1> <br>
+
+1. Start Command Prompt with Ruby 클릭 <br>
+2. {username}.github.io로 이동 <br>
+3. 터미널 창에 bundle install 입력 <br>
+4. 터미널 창에 bundle exec jekyll serve 입력 <br>
+5. localhost:4000/에 접속
