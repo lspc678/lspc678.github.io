@@ -1,4 +1,7 @@
 ---
+
 layout: category
-title: 'Algorithm Study'
+
+title: 'Others'
+
 ---   
