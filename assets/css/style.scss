@@ -3,6 +3,7 @@
 
 @import "plain";
 @import "category";
+@import "molokai.css";
 
 {% if site.plainwhite.search %}
   @import "search";

@@ -53,6 +53,9 @@ category_path: "category" # <- default value
 category_layout: "category.html" # <- default value
 # Math equation
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
