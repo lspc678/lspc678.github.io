@@ -24,5 +24,5 @@ git push <br>
 1. Start Command Prompt with Ruby 클릭 <br>
 2. {username}.github.io로 이동 <br>
 3. 터미널 창에 bundle install 입력 <br>
-4. 터미널 창에 bundle exec jekyll serve 입력 <br>
+4. 터미널 창에 bundle exec jekyll serve 또는 jekyll s입력 <br>
 5. localhost:4000/에 접속
